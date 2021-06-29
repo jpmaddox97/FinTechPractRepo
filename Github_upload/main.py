@@ -1,3 +1,4 @@
-def main():
-    print("My name is Joshua Maddox")
+def main(name):
+    print(f"My name is {name}")
+
 main()
